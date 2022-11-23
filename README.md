@@ -1,4 +1,10 @@
 ### Hi there 👋
+Please connect with me on LinkedIn: https://www.linkedin.com/in/shahbazrafi/
+
+News_frontend: nc-news-sr.netlify.app/
+News_backend: nc-news-backend-shahbazrafi.herokuapp.com/api/
+wHere_frontend: whereapp-nc.netlify.app/
+wHere_backend: good-blue-newt-tam.cyclic.app/api/
 
 <!--
 **shahbazrafi/shahbazrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
