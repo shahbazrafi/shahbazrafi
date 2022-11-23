@@ -1,6 +1,9 @@
 ### Hi there 👋
 Please connect with me on LinkedIn: [https://www.linkedin.com/in/shahbazrafi/](https://www.linkedin.com/in/shahbazrafi/)\
 \
+Leetcode: [github.com/shahbazrafi/leetcode](https://github.com/shahbazrafi/leetcode)\
+\
+Apps:\
 News_frontend: [nc-news-sr.netlify.app/](https://nc-news-sr.netlify.app/)\
 News_backend: [nc-news-backend-shahbazrafi.herokuapp.com/api/](https://nc-news-backend-shahbazrafi.herokuapp.com/api/)\
 wHere_frontend: [whereapp-nc.netlify.app/](https://whereapp-nc.netlify.app/)\
